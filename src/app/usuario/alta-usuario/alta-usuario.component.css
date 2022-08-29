@@ -1,0 +1,32 @@
+html,body {
+  margin:-9;
+  padding: 20;
+  width: auto;
+  height:auto;
+}
+h1 {
+font-family: Arial;
+font-style: italic;
+font-size:25px;
+color:white;
+}
+h2 {
+font-family: Arial;
+font-style: italic;
+font-size:18px;
+color:white;
+}
+textarea{
+font-family:Arial;
+font-style:italic;
+font-size:20px;
+background-color:green;
+color:black;
+}
+button{
+    background-color:green;
+    color:black;
+    font-family:Arial;
+    font-style:italic;
+    font-size:20px;
+}
